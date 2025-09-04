@@ -111,7 +111,7 @@ const ParisToursLanding = () => {
           <Button 
             label="Book Now" 
             icon="pi pi-calendar-plus"
-            className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 border-none px-6 py-2 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5"
+            className="px-3 text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 p-button p-component p-button-raised"
             size="small"
           />
         </div>
@@ -193,7 +193,7 @@ const ParisToursLanding = () => {
             <Button 
               label="Book Now" 
               icon="pi pi-calendar" 
-              className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 border-none px-6 py-3 text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
+              className="px-3 py-3 text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300"
               raised
             />
           </div>
